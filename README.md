@@ -2,7 +2,7 @@
 - 👀 I’m interested in app develpoment
 - 🌱 I’m currently learning computer programming
 - 💞️ I’m looking to collaborate on software development
-- 📫 How to reach me okellopatrick26@gmail.com/+25078347982
+- 📫 How to reach me okellopatrick26@gmail.com/+256763623905
 
 <!---
 OkeloBul/OkeloBul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
